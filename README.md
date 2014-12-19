@@ -2,7 +2,7 @@ wind_ball
 ==================
 
 ###作品名
-荒ぶるマスコットたち
+ういんどぼーる
 
 ###ダウンロードリンク
 <https://github.com/rhenium75/wind_ball/archive/master.zip>  
