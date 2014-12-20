@@ -23,7 +23,6 @@ wind_ball
 ###作品説明
  画面内に次々とあらわれる可愛いマスコットたちを集めてレベルを上げるゲームだよ。
  お気に入りのマスコットをたくさんあつめよう。
- 
 
 ###あそびかた
 wind_ball.zipを解凍してwind_ball.exeを実行するとゲームがはじまります。
@@ -34,6 +33,9 @@ wind_ball.zipを解凍してwind_ball.exeを実行するとゲームがはじま
 リーダーマスコットはスキルが発動します。
 また、マスコットをクリックしたときリーダーマスコットは消耗されてしまいます。
 
+###スクショ
+![メニュー](https://raw.githubusercontent.com/wiki/rhenium75/wind_ball/p1.png)  
+![マスコット選択](https://raw.githubusercontent.com/wiki/rhenium75/wind_ball/p2.png)  
 
 **この作品はマスコットアプリ文化祭2014の応募規定および禁止事項に従って制作されています。**  
 **応募規定および禁止事項を確認し、反していません。**  
