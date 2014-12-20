@@ -2,7 +2,7 @@ wind_ball
 ==================
 
 ###作品名
-ういんどぼーる
+マスコットカーニバル
 
 ###ダウンロードリンク
 <https://github.com/rhenium75/wind_ball/archive/master.zip>  
