@@ -7,6 +7,9 @@ wind_ball
 ###ダウンロードリンク
 <https://github.com/rhenium75/wind_ball/archive/master.zip>  
 
+###動作環境
+windows
+
 ###製作者
 * れにうむ 
 
